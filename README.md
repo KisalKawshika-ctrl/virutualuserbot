@@ -2,12 +2,12 @@
 <h4 align="center">A Powerful, Smart And Simple Userbot with 300+ Plugins <br> ... The Userbot Remix ...</h4>
 
 <p align="center">
-    <a href="https://github.com/inukaasith/virtualuserbot/commits/master"><img src="https://img.shields.io/github/last-commit/inukaasith/virtualuserbot/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
-    <a href="https://github.com/kisalkawshika-ctrl/virtualuserbot/stargazers"><img src="https://img.shields.io/github/stars/inukaasith/virtualuserbot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
-    <a href="https://github.com/kisalkawshika-ctrl/virtualuserbot/network/members"><img src="https://img.shields.io/github/forks/inukaasith/virtualuserbot?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
+    <a href="https://github.com/kisalkawshika-ctrl/virutualuserbot/commits/master"><img src="https://img.shields.io/github/last-commit/inukaasith/virtualuserbot/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
+    <a href="https://github.com/kisalkawshika-ctrl/virutualuserbot/stargazers"><img src="https://img.shields.io/github/stars/inukaasith/virtualuserbot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/kisalkawshika-ctrl/virutualuserbot/network/members"><img src="https://img.shields.io/github/forks/inukaasith/virtualuserbot?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
 </p>
 
-<p align="center"><a href="https://t.me/technore"><img src="https://telegra.ph/file/af819fad38708f8cbe378.jpg" width="400"></a></p> 
+<p align="center"><a href="https://t.me/KisalKawshika"><img src="https://telegra.ph/file/af819fad38708f8cbe378.jpg" width="400"></a></p> 
 
 
 ### Here is the Telegram VirtualUserbot. A Remix Of Userbots on github.. Credits To Thier Owners..
@@ -20,9 +20,9 @@
 # 
 # 鉂わ笍 Support
 
-<a href="https://t.me/technore"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/KisalKawshika"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/technore"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/KisalKawshika"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Please Star this repo If you are deploying this Userbot
 
@@ -84,7 +84,7 @@ To English =>
 
 # 馃弮鈥嶁檪锔� Deploying To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Inukaasith/virtualuserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kisalkawshika-ctrl/virutualuserbot)
 
 ``` Always try to  Deploy this source. If not you will miss the future updates```
 
@@ -140,7 +140,7 @@ If you Dont like this send ```.set var PM_DATA DISABLE```
 Simply clone the repository and run the main file:
 ```sh
 # Install Git First.
-git clone https://github.com/kisalkawshika-ctrl/VirtualUserbot
+git clone https://github.com/kisalkawshika-ctrl/VirutualUserbot
 # Open Git Cloned File
 cd FridayUserbot
 # Config Virtual Env
@@ -190,7 +190,7 @@ published by the Free Software Foundation, either version 3 of the License, or
  
 # 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/inukaasith/virtualuserbot/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kisalkawshika-ctrl/virtualuserbot/graphs/commit-activity)
 
 # Full Credits
 
