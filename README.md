@@ -234,4 +234,3 @@ All the plugins are reconfigured for for virtualuserbot. So if you have any erro
 
 ## 鉂わ笍 Made possible by [Friday Project](https://github.com/StarkGang/FridayUserbot) and many other opensource projects.. 鉂わ笍
 
-### 馃槏 Project by [Infinity_Bots](https://t.me/technore)  馃槏
